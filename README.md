@@ -7,18 +7,19 @@ Tenho um grande interesse pela área de tecnologia, especialmente em programaç�
 ## 🎓 Formação
 - Técnico em Desenvolvimento de Sistemas pela ETEC.
 
+
+
 ## 🛠 Tecnologias e Ferramentas  
-  <p align="left">
-    
-  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%23f89820?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Kotlin-%230095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-%23FFA500?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <p align="left">    
+    <img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-%23f89820?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Kotlin-%230095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-%23FFA500?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   </p>
 
   
@@ -33,4 +34,13 @@ Desenvolvida como Trabalho de Conclusão de Curso em grupo, esta plataforma tem 
 - **Banco de Dados:** MySQL
 
 O projeto foi realizado em equipe, com cada membro contribuindo para o desenvolvimento de diferentes partes da aplicação, como a interface, a API e a integração com o banco de dados. A plataforma foi construída para proporcionar uma experiência interativa e eficiente, conectando usuários com recursos educativos e informações sobre o mercado de trabalho.
+***
+
+
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyicolasz&layout=compact&theme=onedark)
+
+</div>
+
 
