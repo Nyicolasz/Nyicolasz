@@ -43,15 +43,15 @@ O projeto foi realizado em equipe, com cada membro contribuindo para o desenvolv
 
 </div>
 
-<p align="center">
+<div align="center">
+  <p>
   <a href="https://www.linkedin.com/in/nycolas-lima-filho-794931328">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
+  &nbsp;
   <a href="mailto:nycolaslima.filho@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-%23007394?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
-</p>
+    </p>
+</div>
 
