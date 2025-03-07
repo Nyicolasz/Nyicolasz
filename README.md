@@ -41,7 +41,7 @@ O projeto foi realizado em equipe, com cada membro contribuindo para o desenvolv
 
 <div align="center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyicolasz&layout=compact&darktheme=onedark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyicolasz&layout=compact&theme=transparent)
 
 </div>
 
